@@ -101,4 +101,4 @@ This is a React application built with Vite that integrates with the Reqres API 
 ## Links
 
 - GitHub Repository: https://github.com/czarflix/EmployWise-Assignment
-- Live Demo: [Coming Soon]
+- Live Demo: https://employwise-assmt.netlify.app/
