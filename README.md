@@ -19,12 +19,30 @@ This is a React application built with Vite that integrates with the Reqres API 
 - Edit user details (first name, last name, email)
 - Delete users
 
-### UI/UX
+### Enhanced UI/UX Features
 
-- Responsive design using Tailwind CSS
-- Dark/Light theme support
-- Clean and intuitive user interface
-- Toast notifications for success and error messages
+- Modern, responsive design powered by Tailwind CSS
+
+  - Fluid layouts that adapt to any screen size
+  - Custom components with consistent styling
+  - Optimized for both desktop and mobile viewing
+
+- Dark/Light Theme Support
+
+  - Seamless theme switching with persistent preference
+  - Eye-friendly dark mode for reduced eye strain
+  - Carefully selected color palette for both themes
+
+- Intuitive User Interface
+
+  - Clean and minimalist design approach
+  - Consistent layout and navigation patterns
+  - Smooth animations and transitions
+
+- User-Friendly Feedback System
+  - Toast notifications for all user actions
+  - Clear success and error messages
+  - Non-intrusive notification placement
 
 ## Technologies Used
 
