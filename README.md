@@ -41,7 +41,7 @@ This is a React application built with Vite that integrates with the Reqres API 
 1. Clone the repository (once available)
 
    ```
-   git clone [https://github.com/czarflix/EmployWise-Assignment]
+   git clone https://github.com/czarflix/EmployWise-Assignment
    cd employwise-assignment
    ```
 
@@ -100,5 +100,5 @@ This is a React application built with Vite that integrates with the Reqres API 
 
 ## Links
 
-- GitHub Repository: [https://github.com/czarflix/EmployWise-Assignment]
+- GitHub Repository: https://github.com/czarflix/EmployWise-Assignment
 - Live Demo: [Coming Soon]
